@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **akmalhibatul/akmalhibatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![MoPaMo's stats - powered by anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=akmalhibatul&show_icons=true)
+
+![MoPaMo's most. used langs - powered by anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalhibatul&layout=compact)
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=akmalhibatul&repo=ilyasafr&countColorcountColor)
