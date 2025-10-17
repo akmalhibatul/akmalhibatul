@@ -10,8 +10,6 @@
 - 🌱 I’m learning **Flask, Neural Networks, and Project Management**  
 - 🧩 I love solving real-world problems through clean and scalable code  
 - 💬 Ask me about **Web Development, Databases, or AI-based Systems**  
-- ⚡ Fun fact: I’m also a **teacher in a TPA** and love helping kids learn 🌙  
-
 ---
 
 ### 🛠️ Tech Stack  
@@ -38,8 +36,8 @@
 
 ### 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=akmalhibatul&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalhibatul&layout=compact&theme=tokyonight" height="150">
 </div>
 
 ---
@@ -53,9 +51,9 @@
 
 ### ☕ Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/USERNAMEKAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:EMAILKAMU@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/USERNAMEKAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hibatul-akmal-1806akmal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akmalhibatul1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/akmalhibatul_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -66,4 +64,4 @@
 
 ---
 
-⭐️ From [USERNAMEKAMU](https://github.com/USERNAMEKAMU)
+⭐️ From [Hibatul Akmal](https://github.com/akmalhibatul)
